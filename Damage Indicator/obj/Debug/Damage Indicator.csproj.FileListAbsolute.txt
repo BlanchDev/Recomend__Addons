@@ -37,3 +37,10 @@ C:\Users\bruno\Documents\GitHub\Buddy-dev\Damage Indicator\obj\Debug\Damage Indi
 C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Damage Indicator\bin\Debug\Damage Indicator.exe.config
 C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Damage Indicator\obj\Debug\Damage Indicator.exe
 C:\Users\Bruno_PC\Documents\GitHub\Buddy-dev\Damage Indicator\obj\Debug\Damage Indicator.pdb
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\bin\Debug\Damage Indicator.exe.config
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\obj\Debug\Damage Indicator.exe
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\obj\Debug\Damage Indicator.pdb
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\bin\Debug\Damage Indicator.exe
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\bin\Debug\Damage Indicator.pdb
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EMIR\Documents\GitHub\Recomend__Addons\Damage Indicator\obj\Debug\Damage Indicator.csprojResolveAssemblyReference.cache
